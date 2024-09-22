@@ -18,7 +18,6 @@ public class switch_case {
 
             case 1 : System.out.println("This number one");
             break;
-
             case 2 : System.out.println("This number Two");
                 break;
             case 3 : System.out.println("This number Three");
@@ -27,6 +26,7 @@ public class switch_case {
                 break;
             case 5 : System.out.println("This number Five");
                 break;
+
             default: System.out.println("This number invalid");
         }
     }
