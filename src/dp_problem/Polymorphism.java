@@ -1,4 +1,5 @@
-package Oop_part;
+package dp_problem;
+
 
 public class Polymorphism {
     //
@@ -38,3 +39,4 @@ Java-তে Polymorphism মূলত দুই প্রকার:
 Compile-time Polymorphism (Method Overloading): একই মেথডের নাম থাকলেও ভিন্ন প্যারামিটার থাকে।
 Run-time Polymorphism (Method Overriding): একটি চাইল্ড ক্লাস সুপারক্লাসের মেথডকে পরিবর্তন করে নতুনভাবে সংজ্ঞায়িত করতে পারে।
      */
+
